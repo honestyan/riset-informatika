@@ -9,3 +9,4 @@
 
 - [Tugas 1](https://github.com/honestyan/riset-informatika/blob/main/tugas1.md)
 - [Tugas 2](https://github.com/honestyan/riset-informatika/blob/main/tugas2.md)
+- [Tugas Akhir](https://github.com/honestyan/riset-informatika/blob/main/tugas-akhir.md)
