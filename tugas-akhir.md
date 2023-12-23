@@ -78,6 +78,10 @@ Perawatannya juga sangat rendah sehingga bekerja cukup baik dengan kecepatan tin
 - DermIS: https://dermis.net
 - Dermatology Atlas: http://www.atlasdermatologico.com.br/browse.jsf
 
+## Kode Program
+
+- [predict.py](https://github.com/honestyan/riset-informatika/blob/main/predict.py)
+
 ## Contoh hasil survey
 
 <p align="center"><img src="https://raw.githubusercontent.com/ishubham21/infinity-skncure-angular/master/readme-assets/feedback1.png"></p>
