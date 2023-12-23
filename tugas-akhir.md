@@ -48,7 +48,7 @@ Kami juga menyertakan fitur yang memungkinkan pengguna menjadwalkan janji temu d
 
 - Oktavian, A. (2019). Developing a PERN-stack based enterprise application. Journal of Software Engineering, 15(2), 104-114.
 
-## ⁠Metode yg digunakan
+## ⁠Metode yang Digunakan
 
 Kami akan menggunakan Mobilenet karena arsitekturnya ringan. Ia menggunakan konvolusi yang dapat dipisahkan secara mendalam yang pada dasarnya berarti ia melakukan konvolusi tunggal pada setiap saluran warna daripada menggabungkan ketiganya dan meratakannya. Hal ini mempunyai efek memfilter saluran masukan. Atau seperti yang dijelaskan dengan jelas oleh penulis makalah: “ Untuk MobileNets, konvolusi mendalam menerapkan filter tunggal ke setiap saluran masukan. Konvolusi searah kemudian menerapkan konvolusi 1×1 untuk menggabungkan keluaran konvolusi mendalam. Konvolusi standar memfilter dan menggabungkan masukan menjadi serangkaian keluaran baru dalam satu langkah. Konvolusi yang dapat dipisahkan secara mendalam membaginya menjadi dua lapisan, lapisan terpisah untuk pemfilteran dan lapisan terpisah untuk penggabungan. Faktorisasi ini berdampak pada pengurangan komputasi dan ukuran model secara drastis. ”
 
@@ -81,6 +81,7 @@ Perawatannya juga sangat rendah sehingga bekerja cukup baik dengan kecepatan tin
 ## Kode Program
 
 - [predict.py](https://github.com/honestyan/riset-informatika/blob/main/predict.py)
+  git
 
 ## Contoh hasil survey
 
